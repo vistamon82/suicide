@@ -1,7 +1,6 @@
-name: suicide
-author: irql
-version: 1.0.0
-main: com.irql.suicide.Main
-
-commands:
+name: suicide
+author: irql
+version: 1.0.0
+main: com.irql.suicide.Main
+commands:
   suicide:
